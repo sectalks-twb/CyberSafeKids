@@ -1,4 +1,4 @@
-#Git Resources
+# Git Resources
 
 The following resources will help the SecTalks crowd contribute to the initial creation of the CyberSafeKids package.
 
